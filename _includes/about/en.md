@@ -9,6 +9,7 @@ In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and
 I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology). -->
 Hello, I'm GroomPang
 ##### Appearence
+MS Bug Bounty - Remote Command Execution
 
 <!-- - [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
 - [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
