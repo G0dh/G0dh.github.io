@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: grpang9@gmail.com
 description: "GroomPang Blog"
 keyword: "GroomPang, Cloud Security, Azure Cloud Instance Escape"
-url: "https://g0dh.github.io/" # your host, for absolute URL
+url: "https://g0dh.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
